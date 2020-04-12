@@ -1,0 +1,496 @@
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { }
+
+
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ .logo-text p {
+	margin: 0 5px;
+    
+}
+    .footer1-text .sm-text2 p {
+	margin-right: -125px;
+}
+    .footer2 p {
+	padding: 0;
+}
+    .soical-icon a {
+	margin: 0 3px;
+}
+.footer1-text p {
+	margin-right: 0;
+	padding: 0;
+}
+    
+    
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+   
+    .mainmenu {
+	background: #2e2a4b;
+	padding-left: 25px;
+}
+    .navbar-nav .nav-item {
+	padding: 10px 0;
+}
+    .nav-link {
+	font-size: 15px;
+}
+.banner-area h1 {
+	font-size: 24px;
+}
+    .banner-text p {
+	font-size: 13px;
+	padding: 0;
+	padding-top: 60px;
+}
+    .btn a {
+	font-size: 15px;
+}
+    .story-text p {
+	padding: 0;
+	font-size: 13px;
+}
+    .logo-text p {
+	font-size: 13px;
+}
+    .stroy-img {
+	padding-top: 60px;
+}
+    .stroy-img img {
+	width: 130% !important;
+}
+    .team-space{
+        padding-top: 60px;
+}
+    .team-bottom-text p {
+
+	 padding-left: 0; 
+}
+ .slider-overlay h1 {
+	font-size: 80px;
+	padding-top: 60px;
+	padding-bottom: 0px;
+}
+ .slider-overlay p {
+	font-size: 14px;
+	padding: 0;
+	margin: 0 20px;
+}
+    #about h1 {
+	padding-top: 60px;
+}
+    .about-2 {
+	margin: 0 !important;
+}
+    .row.text-uppercase.sm-text {
+	 padding-top: 0px; 
+}
+.footer3 h4 {
+	font-size: 18px;
+	padding-top: 60px;
+	margin-bottom: -10px;
+}
+   .footer-form {
+	margin-left: -14px;
+}
+    .soical-icon a {
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	margin: 0 8px;
+}
+    .soical-icon i {
+	font-size: 20px;
+}
+    .copyright {
+	padding-top: 35px;
+}
+.footer-overlay {
+	padding-bottom: 40px;
+} 
+    .form4 {
+	padding-bottom: 120px !important;
+}
+    .client-img{
+        text-align: center;
+    }
+    .footer2 h4 {
+	font-size: 18px;
+}
+    
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  
+   
+.mainmenu {
+	background: #2e2a4b;
+	padding-left: 25px;
+}
+     .navbar-nav .nav-item {
+	padding: 10px 0;
+}
+    .nav-link {
+	font-size: 15px;
+}
+.banner-area h1 {
+	font-size: 20px;
+}
+    .banner-text p {
+	font-size: 13px;
+	padding: 0;
+	padding-top: 40px;
+}
+    .banner-text .btn {
+	padding-top: 33px;
+}
+ .btn a {
+	font-size: 13px;
+}
+       #story {
+	padding: 50px 0;
+}
+    .story-text p {
+	padding: 0;
+	font-size: 13px;
+}
+    .stroy-img {
+	padding-top: 90px;
+}
+    .stroy-img img {
+	width: 100%;
+}
+    .story-margin{
+      margin: 0;  
+}
+    .expertise-text {
+	padding: 50px 0;
+	text-align: center;
+}
+    .expertise-part {
+	padding-top: 60px;
+}
+    .logo-text h3 {
+    font-size: 13px;
+}
+    .logo-text p {
+	font-size: 13px;
+        margin: 0;
+}
+ .gall-btn {
+	padding: 10px 10px;
+	font-size: 14px;
+}
+    .team-space{
+        padding-top: 60px;
+}
+    .team-bottom-text p {
+
+	 padding-left: 0; 
+}
+ .slider-overlay h1 {
+	font-size: 70px;
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+ .slider-overlay p {
+	font-size: 14px;
+	padding: 0;
+	margin: 0;
+}
+    #about {
+	padding: 50px 0;
+}
+    #about h1 {
+	padding-top: 0;
+}
+    .about-2 {
+	margin: 0 !important;
+}
+      .client-img {
+	text-align: center;
+	padding-top: 50px;
+}
+    .row.text-uppercase.sm-text {
+	 padding-top: 0px; 
+}
+.footer3 h4 {
+	font-size: 18px;
+	padding-top: 60px;
+	margin-bottom: -10px;
+}
+   .footer-form {
+	margin-left: -14px;
+}
+    .soical-icon a {
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	margin: 0 8px;
+}
+    .soical-icon i {
+	font-size: 20px;
+}
+    .copyright {
+	padding-top: 35px;
+}
+    .footer-overlay {
+	padding-bottom: 40px;
+} 
+    .form4 {
+	padding-bottom: 120px !important;
+}
+     .footer2 h4 {
+	font-size: 20px;
+	padding-top: 20px;
+}
+}
+
+
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .navbar-nav .nav-item {
+	padding: 8px 0;
+}
+    .btn a {
+	font-size: 12px;
+}
+ .mainmenu {
+	background: #2e2a4b;
+	padding-left: 25px;
+}
+     .navbar-nav .nav-item {
+	padding: 10px 0;
+}
+    .nav-link {
+	font-size: 15px;
+}
+.banner-area h1 {
+	font-size: 21px;
+}
+.banner-text p {
+	padding: 0;
+	padding-top: 60px;
+	padding: ;
+}
+    .banner-text .btn {
+	padding-top: 33px;
+}
+       #story {
+	padding: 50px 0;
+    text-align: center;
+}
+   .story-text h1 {
+	padding-bottom: 5px;
+	padding-top: 30px;
+	 padding-left: 0; 
+}
+    .story-text p {
+	padding: 0;
+	font-size: 13px;
+}
+ .stroy-img {
+	padding-top: 0;
+	margin: 0;
+	margin-left: -90px;
+}
+    .story-margin{
+      margin: 0;  
+}
+    .strory-margin1 {
+	margin-left: 45px;
+}
+    .expertise-text h1 {
+	font-size: 20px;
+}
+    .expertise-text h1::before {
+	left: 40%;
+	top: 85px;
+	width: 60px;
+}
+    .expertise-top-text {
+	font-size: 12px;
+	padding: 0px 30px;
+}
+    .expertise-text {
+	padding: 50px 0;
+	text-align: center;
+}
+    .expertise-part {
+	padding-top: 60px;
+}
+    .logo-text h3 {
+    font-size: 13px;
+}
+    .logo-text p {
+	font-size: 13px;
+        margin: 0;
+}
+ .gall-btn {
+	padding: 10px 10px;
+	font-size: 14px;
+}
+    .gallery-btns .gall-btn {
+	width: 100%;
+}
+    .btn.gall-btn {
+	border: 0;
+	padding: 30px 0 !important;
+}
+    .team-area h1 {
+	font-size: 20px;
+}
+    .team-area h1::before {
+	left: 40%;
+	top: 90px;
+	width: 60px;
+}
+    .team-text {
+	padding-bottom: 15px;
+}
+    .team-top-text {
+    font-size: 12px;
+	padding: 0 30px;
+}
+    .team-space{
+        padding-top: 60px;
+}
+ .team-bottom-text p {
+	padding-left: 0;
+	font-size: 13px;
+}
+    .gall-text h1 {
+	font-size: 20px;
+}
+    .gall-text h1::before {
+	left: 42%;
+	top: 85px;
+	width: 55px;
+}
+    .gallery-btns {
+	text-align: left !important;
+}
+    .gall-btn {
+	padding: 10px 10px;
+	font-size: 14px;
+}
+  .gall-btn {
+	padding: 9px !important;
+	font-size: 14px;
+	margin: 5px 10px;
+	cursor: pointer;
+	margin-right: 16px;
+}
+    .gall-top-text {
+	font-size: 12px;
+	padding: 0 30px;
+}
+ .slider-overlay h1 {
+	font-size: 70px;
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+ .slider-overlay p {
+	font-size: 13px;
+	padding: 0 10px;
+	margin: 0;
+}
+    #about {
+	padding: 40px 0;
+}
+    #exampleInputEmail1 {
+	padding: 10px 20px;
+}
+    #exampleInputEmail1::placeholder {
+	font-size: 13px;
+}
+    .btn.from-btn {
+	padding: 10px 30px;
+    padding-bottom: 0;
+}
+ #about h1 {
+	font-size: 20px;
+	padding-bottom: 25px;
+}
+    .about-2 {
+	margin: 0 !important;
+}
+      .client-img {
+	text-align: center;
+	padding-top: 50px;
+}
+  .client-img img {
+	width: 65%;
+}
+    .row.text-uppercase.sm-text {
+	padding-top: 5px;
+}
+     .sm-text p {
+	font-size: 12px;
+}
+.footer3 h4 {
+	font-size: 18px;
+	padding-top: 60px;
+	margin-bottom: -10px;
+}
+   .footer-form {
+	margin-left: -14px;
+}
+  .soical-icon a {
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+	margin: 0 3px;
+}
+    .soical-icon i {
+	font-size: 16px;
+}
+    .copyright {
+	padding-top: 35px;
+}
+    .footer-overlay {
+	padding-bottom: 40px;
+} 
+ .form4 {
+	padding-bottom: 100px !important;
+}
+     .footer2 h4 {
+	font-size: 20px;
+	padding-top: 20px;
+}
+    .copyright p {
+	font-size: 13px;
+}
+    .footer-form1 {
+	padding: 13px !important;
+}
+    .foot-logo1 {
+	left: 65%;
+	top: 0;
+}
+    .foot-logo1 {
+	padding-bottom: 0;
+	padding-right: 2px;
+	padding-top: 3px;
+}
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
